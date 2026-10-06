@@ -10,3 +10,7 @@ Dự án được tạo để thực hành Git và GitHub trong môn Phần mề
 - Làm việc với branch
 - Merge branch
 - Pull Request
+
+## Giới thiệu
+
+Đây là dự án thực hành quản lý mã nguồn bằng Git.
