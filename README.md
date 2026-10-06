@@ -14,3 +14,21 @@ Dự án được tạo để thực hành Git và GitHub trong môn Phần mề
 ## Giới thiệu
 
 Đây là dự án thực hành quản lý mã nguồn bằng Git.
+
+## Installation
+
+Run the project using Git.
+
+## Practice
+
+This section is added to practice Pull Request.
+
+## Git Workflow
+
+Dự án sử dụng Git để quản lý phiên bản mã nguồn.
+
+## Branches
+
+- main: nhánh chính của dự án
+- feature-doc: phát triển nội dung tài liệu
+- feature-update: cập nhật README và thực hành Pull Request
