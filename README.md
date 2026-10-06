@@ -22,3 +22,7 @@ Run the project using Git.
 ## Practice
 
 This section is added to practice Pull Request.
+
+## Git Workflow
+
+Dự án sử dụng Git để quản lý phiên bản mã nguồn.
